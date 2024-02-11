@@ -16,3 +16,7 @@ The program uses ASCII character codes to print numbers, so each Fibonacci numbe
 Loop to Generate Multiple Numbers:
 
 The entire Fibonacci calculation and printing process is enclosed in a loop that runs multiple times to print the first 10 numbers of the sequence.
+
+
+### TODO
+- Try pytest with it.
